@@ -7,4 +7,4 @@ numberOfTests = int (input("Please enter the number of test you want to average"
 score = int(input( "Please enter a score: "))
 scoreCount=ScoreCount+1               
 total = total + score
-average =total/scoCounter
+average =total/scoreCount
